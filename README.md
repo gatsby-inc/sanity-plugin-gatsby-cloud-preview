@@ -64,4 +64,4 @@ Clicking the button will redirect you to the preview page specific to the post o
 
 # Working with a Gatsby Starter
 
-Gatsby starters have the "Open Preview" button enabled by default. Simply set your `SANITY_STUDIO_CONTENT_SYNC_URL` with the correct value. You should be able to run Studio and see your changes reflected in the Gatsby preview tab out of the box!
+Gatsby starters have the "Open Preview" button enabled by default. Simply set your `SANITY_STUDIO_CONTENT_SYNC_URL` environmental variable with the correct value. You should be able to run Studio and see your changes reflected in the Gatsby preview tab out of the box!
