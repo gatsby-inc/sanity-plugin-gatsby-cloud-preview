@@ -1,4 +1,4 @@
-# sanity-plugin-gatsby-cloud-preview
+# Gatsby Preview Sanity Plugin
 
 A plugin that allows access to Gatsby Preview instances via an `Open Preview` button. The button will display in the document actions menu for all content types in your Sanity Studio. 
 
