@@ -52,13 +52,13 @@ If you have existing document actions configuration, you can append `gatsbyPrevi
 
 Make sure `SANITY_STUDIO_CONTENT_SYNC_URL` is set as an environmental variable for your Studio instance. You can retrieve this URL by navigating to your site's Gatsby dashboard and navigating to Site Settings.
 
-![Content Sync URL](./images/contentsyncURL.png)
+![Content Sync URL](https://github.com/gatsby-inc/sanity-plugin-gatsby-cloud-preview/blob/main/images/contentsyncURL.png)
 
 ### 4. Run your Studio
 
 You can test content sync by running studio locally or hosting it. If set up correctly, you should see a new "Open Preview" option available under document actions preview:
 
-![preview button](./images/button.png)
+![preview button](https://github.com/gatsby-inc/sanity-plugin-gatsby-cloud-preview/blob/main/images/button.png)
 
 Clicking the button will redirect you to the preview page specific to the post or content. 
 
