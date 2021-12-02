@@ -52,7 +52,7 @@ If you have existing document actions configuration, you can append `gatsbyPrevi
 
 Make sure `SANITY_STUDIO_CONTENT_SYNC_URL` is set as an environmental variable for your Studio instance. You can retrieve this URL by navigating to your site's Gatsby dashboard and navigating to Site Settings.
 
-![Content Sync URL](./images/contentSyncURL.png)
+![Content Sync URL](./images/contentsyncURL.png)
 
 ### 4. Run your Studio
 
