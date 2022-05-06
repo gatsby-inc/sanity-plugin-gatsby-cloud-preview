@@ -3,6 +3,8 @@ const contentSyncUrl = process.env.SANITY_STUDIO_CONTENT_SYNC_URL;
 
 export function gatsbyPreviewAction({ published, draft }) {
   const doc = draft || published;
+  
+  if (!doc) return null;
 
   let id;
   if (published) {
